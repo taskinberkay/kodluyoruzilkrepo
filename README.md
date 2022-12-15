@@ -13,3 +13,7 @@ Pull requests are allowed.
 # Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+# Image
+
+(/img/repo-img.png)
