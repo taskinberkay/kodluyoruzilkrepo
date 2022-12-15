@@ -12,4 +12,4 @@ Pull requests are allowed.
 
 # Licence
 
-(https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
