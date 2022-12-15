@@ -16,4 +16,4 @@ Pull requests are allowed.
 
 # Image
 
-(/img/repo-img.png)
+![Project Image](/img/repo-img.png)
